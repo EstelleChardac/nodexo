@@ -3,7 +3,4 @@ const estelleID = {
     campus: 'Wild Code School Biarritz',
 }
 
-module.exports = {
-  firstname: estelleID.firstname,
-  campus: estelleID.campus,
-};
+module.exports = estelleID;
